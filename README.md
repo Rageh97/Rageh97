@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://mohamed-rageh-portfolio.vercel.app/](https://mohamed-rageh-portfolio.vercel.app/)
 
